@@ -8,12 +8,13 @@ Curricular materials created for and/or used in the New Mexico Supercomputing Ch
 
 #### NetLogo: Butterfly Hilltopping
 
+
 * Presentation
     * Main: [PDF](kickoff/netlogo/Butterfly%20Hilltopping.pdf)
     * Instructor's notes: [PDF](kickoff/netlogo/Butterfly%20Hilltopping%20(notes).pdf)
     * Source: [ODP (OpenOffice/LibreOffice Impress)](kickoff/netlogo/Butterfly%20Hilltopping.odp)
     
-* NetLogo files
+* NetLogo &amp; GIS files
     * [Initial](kickoff/netlogo/initial)
     * [Completed](kickoff/netlogo/complete)
     
@@ -26,7 +27,13 @@ Curricular materials created for and/or used in the New Mexico Supercomputing Ch
 * Handouts
     * Patterns of Change &amp; Mathematical Models
         * [PDF](kickoff/data-analysis/Handout%20-%20Patterns%20of%20Change%20and%20Mathematical%20Models.pdf)
-        * [ODT (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Handout%20-%20Patterns%20of%20Change%20and%20Mathematical%20Models.pdf)
+        * [ODT (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Handout%20-%20Patterns%20of%20Change%20and%20Mathematical%20Models.odt)
+    * Simple Linear Regression
+        * [PDF](kickoff/data-analysis/Handout%20-%20Simple%20Linear%20Regression.pdf)
+        * [ODT (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Handout%20-%20Simple%20Linear%20Regression.odt)
+    * Selected Symbols for Basic Mathematical/Statistical Modeling
+        * [PDF](kickoff/data-analysis/Handout%20-%20Selected%20Symbols%20for%20Basic%20Mathematical_Statistical%20Modeling.pdf)
+        * [ODT (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Handout%20-%20Selected%20Symbols%20for%20Basic%20Mathematical_Statistical%20Modeling.odt)
 
 #### Python
 
