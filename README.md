@@ -12,8 +12,8 @@ Curricular materials created for and/or used in the New Mexico Supercomputing Ch
 
     * Presentation: [PDF](kickoff/netlogo/Butterfly%20Hilltopping.pdf)
     * Instructor's notes: [PDF](kickoff/netlogo/Butterfly%20Hilltopping%20(notes).pdf)
-    * Source: [ODP - OpenOffice/LibreOffice Impress](kickoff/netlogo/Butterfly%20Hilltopping.odp)
-    * Initial files
+    * Source: [ODP - (OpenOffice/LibreOffice Impress)](kickoff/netlogo/Butterfly%20Hilltopping.odp)
+    * Initial NetLogo model: [files](kickoff/netlogo)
     
 #### Data Analysis
 
