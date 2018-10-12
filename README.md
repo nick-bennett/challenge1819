@@ -14,14 +14,15 @@ Curricular materials created for and/or used in the New Mexico Supercomputing Ch
     * Source: [ODP - (OpenOffice/LibreOffice Impress)](kickoff/netlogo/Butterfly%20Hilltopping.odp)
     
 * NetLogo files
-    * Initial: [files](kickoff/netlogo/initial)
-    * Completed: [files](kickoff/netlogo/complete)
+    * [Initial](kickoff/netlogo/initial)
+    * [Completed](kickoff/netlogo/complete)
     
 #### Data Analysis: Linear Regression Concepts
 
-* Text
-    * Main: [PDF](kickoff/data-analysis/Mathematical%20Models%20%26%20Linear%20Statistical%20Models_%20Basic%20Concepts%20%206%20Computations.pdf)
-    * Source: [ODT - (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Mathematical%20Models%20%26%20Linear%20Statistical%20Models_%20Basic%20Concepts%20%206%20Computations.odt)
+* Documents
+    * Instructor's text: 
+        * [PDF](kickoff/data-analysis/Mathematical%20Models%20%26%20Linear%20Statistical%20Models_%20Basic%20Concepts%20%206%20Computations.pdf)
+        * Source: [ODT - (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Mathematical%20Models%20%26%20Linear%20Statistical%20Models_%20Basic%20Concepts%20%206%20Computations.odt)
 
 #### Python
 
