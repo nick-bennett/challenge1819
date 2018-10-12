@@ -44,5 +44,18 @@ Curricular materials created for and/or used in the New Mexico Supercomputing Ch
         * [PDF](kickoff/data-analysis/Handout%20-%20Selected%20Symbols%20for%20Basic%20Mathematical_Statistical%20Modeling.pdf)
         * [ODT (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Handout%20-%20Selected%20Symbols%20for%20Basic%20Mathematical_Statistical%20Modeling.odt)
 
-#### Python
+#### Python: Linear Regression Implementation
 
+* Packages
+    * Student: [ZIP](kickoff/python/packages/Python%20Student%20Package.zip)
+    * Instructor: [ZIP](Python%20Instructor%20Package.zip)
+    
+* Instructor's text 
+    * [PDF](kickoff/python/Linear%20Statistical%20Models_%20Basic%20Computation%20with%20Python%20and%20SciPy.pdf)
+    * [ODT (OpenOffice/LibreOffice Writer)](kickoff/python/Linear%20Statistical%20Models_%20Basic%20Computation%20with%20Python%20and%20SciPy.odt)
+
+* Python &amp; data files
+    * [Initial](kickoff/python/initial)
+    * [Completed](kickoff/python/complete)
+    * [Completed w/ SciPy](kickoff/python/complete-scipy)
+    
