@@ -40,6 +40,9 @@
         * [PDF](kickoff/data-analysis/Handout%20-%20Selected%20Symbols%20for%20Basic%20Mathematical_Statistical%20Modeling.pdf)
         * [ODT (OpenOffice/LibreOffice Writer)](kickoff/data-analysis/Handout%20-%20Selected%20Symbols%20for%20Basic%20Mathematical_Statistical%20Modeling.odt)
 
+* Data
+    * [chirps.csv](kickoff/data-analysis/chirps.csv)
+    
 #### Python: Linear Regression Implementation
 
 * Packages
