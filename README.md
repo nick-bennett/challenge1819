@@ -47,7 +47,7 @@
 
 * Packages
     * Student: [ZIP](kickoff/python/packages/Python%20Student%20Package.zip)
-    * Instructor: [ZIP](Python%20Instructor%20Package.zip)
+    * Instructor: [ZIP](kickoff/python/packages/Python%20Instructor%20Package.zip)
     
 * Instructor's text 
     * [PDF](kickoff/python/Linear%20Statistical%20Models_%20Basic%20Computation%20with%20Python%20and%20SciPy.pdf)
